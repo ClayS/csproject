@@ -67,6 +67,8 @@ ul .name{
 
 section.aboutinfo{
 	/*put background image here*/
+	/*background-image: url("../images/denver.JPG");
+	opacity: 0.3;*/
 }
 
 .aboutinfo p{
@@ -106,7 +108,7 @@ img {
 	 border: 5px;
 	 max-height: 35%;
 	 max-width: 35%;
-	 padding: 0 0 0 100px;
+	 padding: 0 0 50px 100px;
 
 	 
  }
@@ -115,3 +117,15 @@ img {
  	display: inline;
  }
 
+ .footer h4 {
+ 	text-align: center;
+ 	color: blue;
+ 	padding-top: 50px;
+ 	background-color: silver;
+}
+
+ul.social {
+ 	text-align: center;
+ 	background-color: silver;
+ 	padding-bottom: 50px;
+ }
